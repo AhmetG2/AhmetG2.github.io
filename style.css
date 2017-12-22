@@ -1,0 +1,34 @@
+p{
+	font-family:"Vernada","Calibri" ,sans-serif;
+	font-size: 18px;
+	background-color:white;
+	opacity: 0.75;
+	box-sizing: border-box;
+	text-align: center;
+	margin: 355px 250px 55px; 
+	bottom: 150px;
+}
+
+body {
+    background-image: url("http://freewallpapersworld.com/ui/images/19/WDF_2704292.jpg");
+	background-size:cover;
+}
+
+h1{
+	text-align:center;
+	font-family: verdana;
+}
+
+img {
+    border-radius: 8px;
+	width: 25%;
+	display:inline-block;
+	position:relative;
+	bottom: -110px;
+	z-index: 2;
+	margin: 10px 75px 10px;
+}
+
+
+
+
